@@ -1,0 +1,2 @@
+# vscode_extension_punycode
+punycodeにしたり戻したりするVSCode拡張機能。拡張機能で一番最初にエクササイズで作成したもの。
